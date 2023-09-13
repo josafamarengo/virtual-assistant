@@ -142,7 +142,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![Email][email-shield]][email-url]
 [![Site][site-shield]][site-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -169,9 +168,6 @@ Use this space to list resources you find helpful and would like to give credit 
 
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://linkedin.com/in/josafamarengo
-
-[email-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[email-url]: https://josafa.com.br/#contact
 
 [site-shield]: https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white
 [site-url]: https://josafa.com.br
